@@ -21,6 +21,10 @@ Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all z
 
 Problem statement :A left rotation  operation on a circular array shifts each of the array's elements  unit to the left. The elements 1 that fall off the left end reappear at the right end. Given an integer d , rotate the array that many steps to the left and return the result.
 
+📌 Day 6: Digital Frequency:
+
+Problem Statement:Given a string,s , consisting of alphabets and digits, find the frequency of each digit in the given string.
+
 📌 Day 6:String Similarity
 
 Problem Statement:For two strings A and B, we define the similarity of the strings to be the length of the longest prefix common to both strings.
