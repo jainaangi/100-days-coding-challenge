@@ -25,7 +25,7 @@ Problem statement :A left rotation  operation on a circular array shifts each of
 
 Problem Statement:Given a string,s , consisting of alphabets and digits, find the frequency of each digit in the given string.
 
-📌 Day 6:String Similarity
+📌 Day 7:String Similarity
 
 Problem Statement:For two strings A and B, we define the similarity of the strings to be the length of the longest prefix common to both strings.
 
