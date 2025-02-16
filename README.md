@@ -29,4 +29,6 @@ Problem Statement:Given a string,s , consisting of alphabets and digits, find th
 
 Problem Statement:For two strings A and B, we define the similarity of the strings to be the length of the longest prefix common to both strings.
 
+📌 Day 8:Nth Term
 
+Problem Statement:There is a series,s , where the next term is the sum of pervious three terms. Given the first three terms of the series,a , b, and c respectively, you have to output the nth term of the series using recursion
