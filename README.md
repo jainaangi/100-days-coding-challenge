@@ -32,3 +32,7 @@ Problem Statement:For two strings A and B, we define the similarity of the strin
 📌 Day 8:Nth Term
 
 Problem Statement:There is a series,s , where the next term is the sum of pervious three terms. Given the first three terms of the series,a , b, and c respectively, you have to output the nth term of the series using recursion
+
+📌 Day 9:Power Calculation
+
+Problem Statement:Help Shashank in calculating the value of  S, which is given as follows. Since the value of S  can be very large, he only wants the last 2 digits of S .
