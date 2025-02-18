@@ -36,3 +36,7 @@ Problem Statement:There is a series,s , where the next term is the sum of pervio
 📌 Day 9:Power Calculation
 
 Problem Statement:Help Shashank in calculating the value of  S, which is given as follows. Since the value of S  can be very large, he only wants the last 2 digits of S .
+
+📌 Day 10:Permuting Two Arrays
+
+Problem Statement:Complete the twoArrays function in the editor below. It should return a string, either YES or NO.
