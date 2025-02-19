@@ -40,3 +40,7 @@ Problem Statement:Help Shashank in calculating the value of  S, which is given a
 📌 Day 10:Permuting Two Arrays
 
 Problem Statement:Complete the twoArrays function in the editor below. It should return a string, either YES or NO.
+
+📌 Day 11: Array Reversal
+
+Problem Statement:Given an array, of size n, reverse it.
