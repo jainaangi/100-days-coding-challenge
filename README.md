@@ -44,3 +44,7 @@ Problem Statement:Complete the twoArrays function in the editor below. It should
 📌 Day 11: Array Reversal
 
 Problem Statement:Given an array, of size n, reverse it.
+
+📌 Day 12:Student Mark
+
+Problem Statement:The array name,marks , works as a pointer which stores the base address of that array. In other words,marks contains the address where marks is stored in the memory.
