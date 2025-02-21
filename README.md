@@ -45,6 +45,10 @@ Problem Statement:Complete the twoArrays function in the editor below. It should
 
 Problem Statement:Given an array, of size n, reverse it.
 
-📌 Day 12:Student Mark
+📌 Day 12:Student Marks
 
 Problem Statement:The array name,marks , works as a pointer which stores the base address of that array. In other words,marks contains the address where marks is stored in the memory.
+
+📌 Day 13:Bitwise Operator
+
+Problem Statement:In this challenge, you will use logical bitwise operators. All data is stored in its binary representation. The logical operators, and C language, use  1 to represent true and 0 to represent false. The logical operators compare bits in two numbers and return true or false, 0 or 1 , for each bit compared.
