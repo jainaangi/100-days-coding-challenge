@@ -53,6 +53,10 @@ Problem Statement:The array name,marks , works as a pointer which stores the bas
 
 Problem Statement:In this challenge, you will use logical bitwise operators. All data is stored in its binary representation. The logical operators, and C language, use  1 to represent true and 0 to represent false. The logical operators compare bits in two numbers and return true or false, 0 or 1 , for each bit compared.
 
-📌Day 14: Array Manupilation
+📌 Day 14:Array Manipulation
 
 Problem Statement:Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
+
+📌 Day 15:Mini Max Sum
+
+Problem Statement:Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
