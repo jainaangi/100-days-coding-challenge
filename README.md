@@ -64,3 +64,7 @@ Problem Statement:Given five positive integers, find the minimum and maximum val
 📌 Day 16: Time Conversion
 
 Problem Statement:Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
+
+📌 Day 17:Grading Students
+
+Problem Statement: Every student receives a grade in the inclusive range 0 from 100 to .
