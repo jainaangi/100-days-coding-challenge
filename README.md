@@ -67,4 +67,8 @@ Problem Statement:Given a time in 12-hour AM/PM format, convert it to military (
 
 📌 Day 17:Grading Students
 
-Problem Statement: Every student receives a grade in the inclusive range 0 from 100 to .
+Problem Statement: Every student receives a grade in the inclusive range from 0 to 100.
+
+📌 Day 18: Diagnol Difference
+
+Problem Statement: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
