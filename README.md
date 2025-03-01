@@ -72,3 +72,7 @@ Problem Statement: Every student receives a grade in the inclusive range from 0 
 📌 Day 18: Diagnol Difference
 
 Problem Statement: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+
+📌 Day 19:Plus Minus
+
+Problem Statement:Given an array of integers, calculate the ratios of its elements that are positive ,negative and zero. Print the decimal value of each fraction on a new line with 6 places after the decimal.
