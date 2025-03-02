@@ -76,3 +76,7 @@ Problem Statement: Given a square matrix, calculate the absolute difference betw
 📌 Day 19:Plus Minus
 
 Problem Statement:Given an array of integers, calculate the ratios of its elements that are positive ,negative and zero. Print the decimal value of each fraction on a new line with 6 places after the decimal.
+
+📌 Day 20: Recursive Digit Sum
+
+Problem Staement:Given an integer, we need to find the super digit of the integer.
