@@ -80,3 +80,7 @@ Problem Statement:Given an array of integers, calculate the ratios of its elemen
 📌 Day 20: Recursive Digit Sum
 
 Problem Staement:Given an integer, we need to find the super digit of the integer.
+
+📌 Day 21:Solve Me First
+
+Problem Staement:Complete the function solve me first to compute the sum of two integers.
