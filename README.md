@@ -104,3 +104,11 @@ Problem Statement:An avid hiker keeps meticulous records of their hikes. During 
 📌 Day 26:Electronic City
 
 Problem Statement:A person wants to determine the most expensive computer keyboard and USB drive that can be purchased with a give budget. Given price lists for keyboards and USB drives and a budget, find the cost to buy them. If it is not possible to buy both items,-1 return .
+
+📌 Day 27: Angry Professor
+
+Problem Statement: A Discrete Mathematics professor has a class of students. Frustrated with their lack of discipline, the professor decides to cancel class if fewer than some number of students are present when class starts. Arrival times go from on time (arrival time <=0) to arrived late (arrival time>0).
+
+📌 Day 28: Circular Array Rotation
+
+Problem Statement: John Watson knows of an operation called a right circular rotation on an array of integers. One rotation operation moves the last array element to the first position and shifts all remaining elements right one. To test Sherlock's abilities, Watson provides Sherlock with an array of integers. Sherlock is to perform the rotation operation a number of times then determine the value of the element at a given position.
