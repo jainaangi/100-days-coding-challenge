@@ -140,3 +140,8 @@ Find the maximum possible height of the stacks such that all of the stacks are e
 📌 Day 34:Largest Rectangle
 
 Problem Statement:Skyline Real Estate Developers is planning to demolish a number of old, unoccupied buildings and construct a shopping mall in their place. Your task is to find the largest solid area in which the mall can be constructed.
+
+📌 Day 35: Balanced Brackets
+
+Problem Statement:A bracket is considered to be any one of the following characters: (, ), {, }, [, or ].
+Two brackets are considered to be a matched pair if the an opening bracket (i.e., (, [, or {) occurs to the left of a closing bracket (i.e., ), ], or }) of the exact same type. There are three types of matched pairs of brackets: [], {}, and ().
