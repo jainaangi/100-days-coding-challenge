@@ -149,3 +149,23 @@ Two brackets are considered to be a matched pair if the an opening bracket (i.e.
 📌 Day 36 :Queue using Two Stacks
 
 Problem Statement:A queue is an abstract data type that maintains the order in which elements were added to it, allowing the oldest elements to be removed from the front and new elements to be added to the rear. This is called a First-In-First-Out (FIFO) data structure because the first element added to the queue (i.e., the one that has been waiting the longest) is always the first one to be removed.
+
+📌 Day 37: Sorting Array of Strings
+
+Problem Statement: To sort a given array of strings into lexicographically increasing order or into an order in which the string with the lowest length appears first, a sorting function with a flag indicating the type of comparison strategy can be written. The disadvantage with doing so is having to rewrite the function for every new comparison strategy. A better implementation would be to write a sorting function that accepts a pointer to the function that compares each pair of strings. Doing this will mean only passing a pointer to the sorting function with every new comparison strategy.
+
+📌 Day 38: Insertion Sort - Part 1
+
+Problem Statement: Insert element into sorted list Given a sorted list with an unsorted number e in the rightmost cell, can you write some simple code to insert e into the array so that it remains sorted?
+
+📌 Day 39: Quicksort 1 - Partition
+
+Problem Statement: The previous challenges covered Insertion Sort, which is a simple and intuitive sorting algorithm with a running time of . In these next few challenges, we're covering a divide-and-conquer algorithm called Quicksort (also known as Partition Sort).
+
+📌 Day 40: Print the Elements of a Linked List
+
+Problem Statement: This exercise focuses on traversing a linked list. You are given a pointer to the head node of a linked list. The task is to print the data of each node, one per line. If the head pointer is null, indicating the list is empty, nothing should be printed.
+
+📌 Day 41: Insert a node at the head of a linked list
+
+Problem Statement: Given a pointer to the head of a linked list, insert a new node before the head. The next value in the new node should point to head and the data value should be replaced with a given value. Return a reference to the new head of the list. The head pointer given may be null meaning that the initial list is empty.
